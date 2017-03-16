@@ -1,3 +1,2 @@
 feature before row1
-row2 
-row3
+row2 after
