@@ -1,2 +1,2 @@
-testbegin feature before row1
+before row1
 row2 after
